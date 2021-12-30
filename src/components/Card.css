@@ -1,0 +1,10 @@
+.card {
+    text-align: center;
+    min-width: 20rem;
+    background-color: darkgrey;
+    border-radius: 7px;
+}
+
+ul{
+    list-style: none;
+}
