@@ -3,7 +3,7 @@ import Gallery from "../components/Gallery";
 
 export default function MainPage(){
     return(<div className="mainPage">
-            <Header/>
+            <Header name="Rick and Morty Gallery"/>
             <Gallery/>
         </div>
     )

@@ -3,8 +3,12 @@
     min-width: 20rem;
     background-color: darkgrey;
     border-radius: 7px;
+    border: solid 3px hotpink;
+}
+ul {
+    text-align: left;
 }
 
-ul{
-    list-style: none;
+img {
+    border-radius: 50%;
 }
